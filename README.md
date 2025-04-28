@@ -11,7 +11,9 @@ cd lamp
 sudo chmod +x lamp.sh
 
 sh lamp.sh
+
 0r
+
 ./lamp.sh
 
 
