@@ -6,9 +6,13 @@ if you want to test my script and host "Hello World" website type below command 
 
 git clone https://github.com/gurpreetsingh-5/lamp.git
 
-cd LAMP
+cd lamp
 
-sh Lamp.sh
+sudo chmod +x lamp.sh
+
+sh lamp.sh
+0r
+./lamp.sh
 
 
 thats it....you only need to type this 3 command in your terminal and then you need to test the server by searching this #http://server_domain_or_IP 
