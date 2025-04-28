@@ -14,7 +14,7 @@ if you want to test my script and host "Hello World" website type below command 
 
   0r
 
-  ./lamp.sh
+    ./lamp.sh
 
 
 thats it....you only need to type this 3 command in your terminal and then you need to test the server by searching this #http://server_domain_or_IP 
