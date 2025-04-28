@@ -4,7 +4,7 @@ This is full script for LAMP setup and Creation of a Virtual Host for your Websi
 if you want to test my script and host "Hello World" website type below command in your ubuntu machine.
 
 
-git clone https://github.com/RishikeshOps/LAMP.git
+git clone https://github.com/gurpreetsingh-5/lamp.git
 
 cd LAMP
 
