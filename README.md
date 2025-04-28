@@ -4,17 +4,17 @@ This is full script for LAMP setup and Creation of a Virtual Host for your Websi
 if you want to test my script and host "Hello World" website type below command in your ubuntu machine.
 
 
-git clone https://github.com/gurpreetsingh-5/lamp.git
+1. git clone https://github.com/gurpreetsingh-5/lamp.git
 
-cd lamp
+2. cd lamp
 
-sudo chmod +x lamp.sh
+3. sudo chmod +x lamp.sh
 
-sh lamp.sh
+4. sh lamp.sh
 
-0r
+  0r
 
-./lamp.sh
+  ./lamp.sh
 
 
 thats it....you only need to type this 3 command in your terminal and then you need to test the server by searching this #http://server_domain_or_IP 
