@@ -8,9 +8,9 @@ if you want to test my script and host "Hello World" website type below command 
 
 2.     cd lamp
 
-3.     sudo chmod +x lamp.sh
+3.     sudo chmod +x Lamp.sh
 
-4.     sh lamp.sh
+4.     sh Lamp.sh
 
   0r
 
